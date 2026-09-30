@@ -12,9 +12,9 @@ def transpose_matrix(a: list[list[int|float]]) -> list[list[int|float]]:
     m = len(a)
     n = len(a[0])
     for j in range(n):
-        row = []
-        for i in range(m):
-            row.append(a[i][j])
+        row = [] 
+        for i in range(m): 
+            row.append(a[i][j]) # take each row element for 1st column and so on !
         a_transpose.append(row)    
     return a_transpose
     
