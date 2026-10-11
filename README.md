@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 25 problems · 0 labs · 3 math
+**29** solved · 26 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-10-11 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-09-30 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-10-11 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
+| [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-10-11 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-10-03 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-09-30 | [solution](problems/0083-dot-product-calculator) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-10-11 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |

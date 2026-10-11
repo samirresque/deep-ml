@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T17:50:47.355Z",
+  "generated_at": "2026-10-11T17:54:29.422Z",
   "items": {
     "math:30": {
       "kind": "math",
@@ -358,6 +358,19 @@
       "last_pushed_at": "2026-10-11T17:50:45.092Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2026-10-11T17:54:21.952Z",
+      "last_pushed_at": "2026-10-11T17:54:21.952Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
