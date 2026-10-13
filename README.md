@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**37** solved · 34 problems · 0 labs · 3 math
+**38** solved · 35 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -44,6 +44,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-10-11 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-09-30 | [solution](problems/0009-matrix-times-matrix) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-10-02 | [solution](problems/0080-normal-distribution-pdf-calculator) |
+| [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-10-13 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Implement AdaBoost Fit Method](https://www.deep-ml.com/problems/38) | hard | 2026-10-13 | [solution](problems/0038-implement-adaboost-fit-method) |
 | [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2026-10-12 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
 
