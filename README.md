@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**48** solved · 45 problems · 0 labs · 3 math
+**49** solved · 46 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -55,6 +55,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-09-30 | [solution](problems/0009-matrix-times-matrix) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-10-02 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-10-13 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
+| [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-10-15 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Implement AdaBoost Fit Method](https://www.deep-ml.com/problems/38) | hard | 2026-10-13 | [solution](problems/0038-implement-adaboost-fit-method) |
 | [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2026-10-12 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
 
