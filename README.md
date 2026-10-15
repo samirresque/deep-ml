@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**47** solved · 44 problems · 0 labs · 3 math
+**48** solved · 45 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -48,6 +48,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-06 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-10-11 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-10-11 | [solution](problems/0050-implement-lasso-regression-using-ista) |
+| [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-10-15 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2026-10-14 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-10-14 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-10-13 | [solution](problems/0017-k-means-clustering) |
