@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T16:21:14.811Z",
+  "generated_at": "2026-10-16T20:04:57.764Z",
   "items": {
     "math:30": {
       "kind": "math",
@@ -631,6 +631,19 @@
       "last_pushed_at": "2026-10-15T16:21:13.955Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:190": {
+      "kind": "problem",
+      "id": "190",
+      "title": "Overlapping Max Pooling",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/190",
+      "path": "problems/0190-overlapping-max-pooling",
+      "first_solved_at": "2026-10-16T20:04:56.180Z",
+      "last_pushed_at": "2026-10-16T20:04:56.180Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
