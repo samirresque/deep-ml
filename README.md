@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**51** solved · 48 problems · 0 labs · 3 math
+**52** solved · 49 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -51,6 +51,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-10-15 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2026-10-14 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-10-14 | [solution](problems/0054-implementing-a-simple-rnn) |
+| [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-10-28 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-10-13 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-09-30 | [solution](problems/0009-matrix-times-matrix) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-10-02 | [solution](problems/0080-normal-distribution-pdf-calculator) |
