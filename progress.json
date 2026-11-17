@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T07:20:26.549Z",
+  "generated_at": "2026-11-17T10:54:04.751Z",
   "items": {
     "math:30": {
       "kind": "math",
@@ -670,6 +670,19 @@
       "last_pushed_at": "2026-10-28T07:20:25.481Z",
       "language": "python",
       "lines": 56
+    },
+    "problem:62": {
+      "kind": "problem",
+      "id": "62",
+      "title": "Implement a Simple RNN with Backpropagation Through Time (BPTT)",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/62",
+      "path": "problems/0062-implement-a-simple-rnn-with-backpropagation-through-time-bptt",
+      "first_solved_at": "2026-11-17T10:54:03.923Z",
+      "last_pushed_at": "2026-11-17T10:54:03.923Z",
+      "language": "python",
+      "lines": 84
     }
   }
 }
